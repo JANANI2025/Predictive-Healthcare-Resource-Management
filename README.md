@@ -7,7 +7,7 @@
 
 > **An interactive web-based system for disease outbreak forecasting, resource capacity planning, and temporal outbreak visualization for Tamil Nadu, India.**
 
-![Dashboard Preview](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/Dashboard.jpg)
+![Dashboard Preview](https://github.com/JANANI2025/Predictive-Healthcare-Resource-Management/blob/main/screenshots-folder/Dashboard.jpg)
 
 ---
 
@@ -328,22 +328,7 @@ Runs full ML pipeline comparing 5 models on entire dataset.
 
 ---
 
-## 📸 Screenshots
 
-### Dashboard Home
-![Dashboard](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/Dashboard.jpg)
-
-### Statistical Analysis
-![Statistics](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/Statistical%20Inference.jpg)
-
-### ML Predictions
-![ML Predictions](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/ML%20tab_single%20Forecast.jpg)
-
-### Resource Simulator
-![Resource Simulator](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/Simulator.jpg)
-
-### Timeline Animation
-![Timeline Animation](https://github.com/Lokeshwari0506/hospital-business-analytics/blob/main/screenshots-folder/TImeline%20Animation.jpg)
 
 ---
 
@@ -406,12 +391,11 @@ copies of the Software...
 
 ## 📧 Contact
 
-**Author:** LOKESHWARI G  
-**Email:** lokeshwarig2005@gmail.com 
-**GitHub:** [@Lokeshwari0506](https://github.com/Lokeshwari0506)  
-**LinkedIn:** [My LinkedIn]( linkedin.com/in/lokeshwari-g-50b336275/)
+**Author:** JANANI G  
+**Email:** janani051118@gmail.com 
+**GitHub:** [@JANANI2025](https://github.com/JANANI2025)  
 
-**Project Link:** [https://github.com/Lokeshwari0506/hospital-business-analytics](https://github.com/Lokeshwari0506/hospital-business-analytics)
+
 
 ---
 
@@ -423,13 +407,9 @@ copies of the Software...
 
 ---
 
-## ⭐ Star this Repository
 
-If you found this project helpful, please consider giving it a star! It helps others discover the project.
-
-[![GitHub stars](https://img.shields.io/github/stars/Lokeshwari0506/hospital-business-analytics?style=social)](https://github.com/Lokeshwari0506/hospital-business-analytics/stargazers)
 
 ---
 
-**Built with ❤️ for better healthcare decision-making**
+
 
